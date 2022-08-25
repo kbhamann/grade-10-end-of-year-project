@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+
+}
+a {
+  color: #8a8a8a
+}
+h1 {
+  color: #FF5C2A;
+  text-align: center;
+  font-size: 30px;
+}
+h2, h3 {
+  font-family: 'Alatsi';
+  color: #D96941;
+  text-align: center;
+  font-size: 20px;
+}
+p {
+  font-size: 18px;
+  color: #212A33;
+}
+h1, h2, h3, p {
+  font-family: 'Alatsi';
+}
+img {
+  float: right;
+}
+#topdiv {
+  margin: 10px;
+  padding-top: 10px;
+  height: 150px;
+  width: 1180px;
+  background-color: #394A59;
+  text-align: center;
+}
+#logo {
+  float: left;
+  margin: 30px;
+  margin: 30px;
+  padding-top: 10px;
+  height: 120px;
+  width: 20%;
+  text-align: left;
+}
+#Biblography {
+  width: 1180px;
+  color: #212A33;
+}
+#Description {
+  width: 1180px;
+}
